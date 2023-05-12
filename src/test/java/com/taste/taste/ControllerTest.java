@@ -19,7 +19,7 @@ public class ControllerTest extends HttpServlet{
 
 	@Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-		RequestDispatcher dispatcher = req.getRequestDispatcher("/WEB-INF/views/index.jsp");
+		RequestDispatcher dispatcher = req.getRequestDispatcher("./WEB-INF/views/pages/main.jsp");
 		
 		dispatcher.forward(req, resp);
     }

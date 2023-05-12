@@ -6,7 +6,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="../resources/css/style.css">
+    <link rel="stylesheet" href="resources/css/mainPage.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
     <title>Document</title>
@@ -59,7 +59,7 @@
 
     <main>
         <div class="container-md">
-            <div class="randomImage"><img class="fit_image" src="../resources/images/food/떡볶이.jpg" alt=""></div>
+            <div class="randomImage"><img class="fit_image" src="resources/images/food/떡볶이.jpg" alt=""></div>
             <div class="recommend">
                 <div class="recommend_title">
                     <h5 class="d-inline">추천맛집</h5>
@@ -87,38 +87,38 @@
                 <div class="recommend_info col">
                     <div class="row justify-content-center">
                         <div class="card m-3 " style="width: 12rem;">
-                            <img src="../resources/images/logo/홍콩반점.png" class="card-img-top" alt="...">
+                            <img src="resources/images/logo/홍콩반점.png" class="card-img-top" alt="...">
                             <div class="card-body">
                                 <p class="card-text">홍콩반점</p>
                                 <img src="../resources/images/food/star.png" alt="" class="star">
                             </div>
                         </div>
                         <div class="card m-3" style="width: 12rem;">
-                            <img src="../resources/images/logo/홍콩반점.png" class="card-img-top" alt="...">
+                            <img src="resources/images/logo/홍콩반점.png" class="card-img-top" alt="...">
                             <div class="card-body">
                                 <p class="card-text">홍콩반점</p>
                                 <img src="../resources/images/food/star.png" alt="" class="star">
                             </div>
                         </div>
                         <div class="card m-3" style="width: 12rem;">
-                            <img src="../resources/images/logo/홍콩반점.png" class="card-img-top" alt="...">
+                            <img src="resources/images/logo/홍콩반점.png" class="card-img-top" alt="...">
                             <div class="card-body">
                                 <p class="card-text">홍콩반점</p>
                                 <img src="../resources/images/food/star.png" alt="" class="star">
                             </div>
                         </div>
                         <div class="card m-3" style="width: 12rem;">
-                            <img src="../resources/images/logo/홍콩반점.png" class="card-img-top" alt="...">
+                            <img src="resources/images/logo/홍콩반점.png" class="card-img-top" alt="...">
                             <div class="card-body">
                                 <p class="card-text">홍콩반점</p>
-                                <img src="../resources/images/food/star.png" alt="" class="star">
+                                <img src="resources/images/food/star.png" alt="" class="star">
                             </div>
                         </div>
                         <div class="card m-3" style="width: 12rem;">
-                            <img src="../resources/images/logo/홍콩반점.png" class="card-img-top" alt="...">
+                            <img src="resources/images/logo/홍콩반점.png" class="card-img-top" alt="...">
                             <div class="card-body">
                                 <p class="card-text">홍콩반점</p>
-                                <img src="../resources/images/food/star.png" alt="" class="star">
+                                <img src="resources/images/food/star.png" alt="" class="star">
                             </div>
                         </div>
 
@@ -126,38 +126,38 @@
 
                     <div class="row justify-content-center">
                         <div class="card m-3 " style="width: 12rem;">
-                            <img src="../resources/images/logo/홍콩반점.png" class="card-img-top" alt="...">
+                            <img src="resources/images/logo/홍콩반점.png" class="card-img-top" alt="...">
                             <div class="card-body">
                                 <p class="card-text">홍콩반점</p>
                                 <img src="../resources/images/food/star.png" alt="" class="star">
                             </div>
                         </div>
                         <div class="card m-3" style="width: 12rem;">
-                            <img src="../resources/images/logo/홍콩반점.png" class="card-img-top" alt="...">
+                            <img src="resources/images/logo/홍콩반점.png" class="card-img-top" alt="...">
                             <div class="card-body">
                                 <p class="card-text">홍콩반점</p>
-                                <img src="../resources/images/food/star.png" alt="" class="star">
+                                <img src="resources/images/food/star.png" alt="" class="star">
+                            </div>
+                        </div>
+                        <div class="card m-3" style="width: 12rem;">
+                            <img src="resources/images/logo/홍콩반점.png" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <p class="card-text">홍콩반점</p>
+                                <img src="resources/images/food/star.png" alt="" class="star">
+                            </div>
+                        </div>
+                        <div class="card m-3" style="width: 12rem;">
+                            <img src="resources/images/logo/홍콩반점.png" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <p class="card-text">홍콩반점</p>
+                                <img src="resources/images/food/star.png" alt="" class="star">
                             </div>
                         </div>
                         <div class="card m-3" style="width: 12rem;">
                             <img src="../resources/images/logo/홍콩반점.png" class="card-img-top" alt="...">
                             <div class="card-body">
                                 <p class="card-text">홍콩반점</p>
-                                <img src="../resources/images/food/star.png" alt="" class="star">
-                            </div>
-                        </div>
-                        <div class="card m-3" style="width: 12rem;">
-                            <img src="../resources/images/logo/홍콩반점.png" class="card-img-top" alt="...">
-                            <div class="card-body">
-                                <p class="card-text">홍콩반점</p>
-                                <img src="../resources/images/food/star.png" alt="" class="star">
-                            </div>
-                        </div>
-                        <div class="card m-3" style="width: 12rem;">
-                            <img src="../resources/images/logo/홍콩반점.png" class="card-img-top" alt="...">
-                            <div class="card-body">
-                                <p class="card-text">홍콩반점</p>
-                                <img src="../resources/images/food/star.png" alt="" class="star">
+                                <img src="resources/images/food/star.png" alt="" class="star">
                             </div>
                         </div>
 
