@@ -259,7 +259,9 @@ div.search{
 
     </main>
 
-      
+    <footer>
+    
+    </footer>  
  
 
 </body>
